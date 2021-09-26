@@ -4,6 +4,8 @@ I am a student intereted in **Backend development**. I am trying to study even o
 
 
 
+- 🌱 I am trying to **grow** and I'm **excited** about it
+
 - 🌱 I am currently learning **Java** and going to learn **Spring**
 - 🌱 I always want to develop for a **reason** and I always ask **"Why?"**
 
@@ -16,9 +18,3 @@ I am a student intereted in **Backend development**. I am trying to study even o
 | 🏫 Education | 2020.08 ~ 2020.12 | Boostcamp membership 5                                   | NAVER CONNECT               |
 | 🏫 Education | 2020.07 ~ 2020.08 | Boostcamp challenge 5                                    | NAVER CONNECT               |
 | 🏫 Education | 2015.03 ~ 2022.02 | Department of IT Convergence and Application Engineering | Pukyong National University |
-
-|      |      |      |      |
-| ---- | ---- | ---- | ---- |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
