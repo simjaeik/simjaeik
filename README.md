@@ -1,11 +1,11 @@
 <img src="https://img.shields.io/badge/Todo-Backend-3DDC84?style=flat-square&color=blue"/> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:wodlr2007@gmail.com)
 
-I am a student intereted in **Backend development**. I am trying to study even one in depth. I like to talk with people.
+I am a student intereted in **Backend development**. I am trying to study even one **in depth**. I like to talk with people.
 
 
 
 - 🌱 I am currently learning **Java** and going to learn **Spring**
-- 🌱 I always want to develop for a **reason** and study one thing **in depth**
+- 🌱 I always want to develop for a **reason** and I enjoy my work
 
 
 
