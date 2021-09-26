@@ -1,10 +1,10 @@
-<img src="https://img.shields.io/badge/BE-3DDC84?color=blue"/> 
+<img src="https://img.shields.io/badge/Todo-Backend-3DDC84?color=blue"/> 
 
 백엔드 엔지니어를 꿈꾸며 공부하는 개발자 지망생입니다.
 
 
 
-#### 🛠 Skills
+### 🛠 Skills
 
 > 공부하며 사용해 본 기술들입니다.
 
