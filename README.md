@@ -10,11 +10,11 @@
 
 ##### Techs 
 
-<img src="https://img.shields.io/badge/Express-000000?&logo=express&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
 
 ##### Languages
 
-<img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white"/>
 
 ##### Tools
 
