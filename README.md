@@ -16,17 +16,17 @@
 
 ### 📒 Learn
 
-🛠 Java / JavaScript / Node.js / MySQL / Git 
+  🛠 Java / JavaScript / Node.js / MySQL / Git 
 
 
 
 ### ✈ Expreince
 
-🛠 C++ / Python / AWS / ec2 / rds ...등
+  🛠 C++ / Python / AWS / ec2 / rds ...등
 
-😀 네이버 커넥츠재단 부스트캠프 5기 수료
+  😀 네이버 커넥츠재단 부스트캠프 5기 수료
 
-✏ 부경대학교 IT융합응용공학과 2022 2월 졸업예정
+  ✏ 부경대학교 IT융합응용공학과 2022 2월 졸업예정
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simjaeik&show_icons=true&theme=tokyonight)
 
