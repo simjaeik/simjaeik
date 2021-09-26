@@ -14,13 +14,13 @@
 
 
 
-#### 📒 Learn
+### 📒 Learn
 
 🛠 Java / JavaScript / Node.js / MySQL / Git 
 
 
 
-#### ✈ Expreince
+### ✈ Expreince
 
 🛠 C++ / Python / AWS / ec2 / rds ...등
 
