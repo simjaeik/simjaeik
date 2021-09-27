@@ -6,7 +6,7 @@ I am a student intereted in **Backend development**. I am trying to study even o
 
 - 🌱 I am trying to **grow** and I'm **excited** about it
 
-- 🌱 I am currently learning **Java** and going to learn **Spring**
+- 🌱 I am currently learning **Java** 
 - 🌱 I always want to develop for a **reason** and I always ask **"Why?"**
 
 
