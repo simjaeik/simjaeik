@@ -3,10 +3,8 @@
 I am a student intereted in **Backend development**. I am trying to study even one **in depth**. I like to talk with people.
 
 
-
-- 🌱 I am trying to **grow** and I'm **excited** about it
-
 - 🌱 I am currently learning **Java** 
+- 🌱 I am trying to **grow** and I'm **excited** about it
 - 🌱 I always want to develop for a **reason** and I always ask **"Why?"**
 
 
